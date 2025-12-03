@@ -7,7 +7,7 @@ This website presents my profile, skills, education, projects, and contact infor
 
 ## 🔗 Live Demo
 
-👉 **[View Website](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/)**  
+👉 **[View Website]((https://alae-eddine-boutaib.github.io/CV-interactif-Alae-eddine-Boutaib/))**  
 *(Replace with your actual GitHub Pages link after publishing)*
 
 ---
